@@ -21,7 +21,6 @@
 
 ### Arduino Hardware
 
-![alt text](http://url/to/img.png) Add fritzing here
 
 ### Command Line
 
@@ -41,4 +40,6 @@ $ node app
 # Usage
 
 This basic sketch will allow you to 'move' LED's with your hand in a basic way. By approaching the range finder  with your hand, the led turns on  dim  then fro there the closer you get the intensity and brightens of the  LEDS increase where as the further you go from it the brightness decreases cause it to dim till it turns off as soon as youare of the distance range..
+# Dependencies
 
+This package uses a sample code provided by Clint, The serail brige folder within the websockets folder which can be downloaded at https://github.com/ClintH/interactivity
